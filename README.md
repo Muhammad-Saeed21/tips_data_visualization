@@ -44,7 +44,7 @@ Data Visualization Practice Project
 
 
 
-data-visualization-project/
+tips_data_visualization/
 │
 ├── visualization.py
 ├── visualization.ipynb
