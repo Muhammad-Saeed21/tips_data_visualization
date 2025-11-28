@@ -23,3 +23,29 @@ Different charts are created to analyze tipping trends, gender distribution, and
 1. Install required libraries:
    ```bash
    pip install seaborn matplotlib
+2. Run the Python script:
+
+python visualization.py
+
+
+3. Or open the notebook:
+
+visualization.ipynb
+
+👨‍💻 Author
+
+Muhammad Saeed
+Data Visualization Practice Project
+
+
+---
+
+# 📁 **Repository Structure**
+
+
+
+data-visualization-project/
+│
+├── visualization.py
+├── visualization.ipynb
+├── README.md
